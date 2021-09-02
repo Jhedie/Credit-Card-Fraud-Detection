@@ -46,10 +46,10 @@
 
 
 Version Control (MS WORD DOCUMENT):    
-	* 14/08/2021   	  Reading around projects and drawing outlines
-	* 16/08/2021	  Adding notes and sources
-	* 18/08/2021	  Adding notes and sources
-	* 19/09/2021	  Google Colab link added
+	- 14/08/2021   	  Reading around projects and drawing outlines
+	- 16/08/2021	  Adding notes and sources
+	- 18/08/2021	  Adding notes and sources
+	- 19/09/2021	  Google Colab link added
 	
 	
 
