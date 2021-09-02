@@ -46,8 +46,9 @@
 
 
 Version Control (MS WORD DOCUMENT):   
-Date | Change/Addition
----- | ---------------
+
+Date  | Change/Addition
+----- | ----------------
 14/08/2021 | Reading around projects and drawing outlines
 16/08/2021 | Adding notes and sources
 18/08/2021 | Adding notes and sources
