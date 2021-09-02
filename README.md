@@ -2,8 +2,11 @@
 
 1. ### Requirements: 
 	Dataset containing transactions between people
-2. ### Aim: 
-	Decide whether a transaction is fraud or not
+2. ### Aims: 
+	* Exploring supervised machine learning algorithms
+	* Learning how to build classication models
+	* Exploring and analysing large datasets
+	* Improving python programming 
 3. ### Method: 
 	* Building a classification Model which can distinguish fraud transactions. 
 		* Classification is the process of predicting a category of given data points. 
