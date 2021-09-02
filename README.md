@@ -13,13 +13,13 @@
 	* It involves utilizing a mapping function (f) from input variables (x) to generate discrete output variables (y) for example yes or no.
 	* Classification belongs to supervised learning where answers are provided with the input data.
 4. ### Steps:
-	[x] Importing python packages
-	[x] Importing data
-	[x] Processing data 
-	[ ] Exploratory Analysis
-	[ ] Feature selection and Data split
-	[ ] Building classification models
-	[ ] Evaluation 
+	- [x] Importing python packages
+	- [x] Importing data
+	- [x] Processing data 
+	- [ ] Exploratory Analysis
+	- [ ] Feature selection and Data split
+	- [ ] Building classification models
+	- [ ] Evaluation 
 5. ### Tools:
 	* Google Colab: https://colab.research.google.com/drive/1NpuGXwu9Kq4juCpEn0v0hdJ4x73vmFp9#scrollTo=uYNcXtbFzDoq 
 	* Python
