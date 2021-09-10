@@ -46,6 +46,9 @@
 	
 	- https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575 - Decision Tree Classifier
 		- https://youtu.be/u4IxOk2ijSs - Gini impurity index
+
+	- https://youtu.be/UR2ag4lbBtc - K Nearest Neighbour explained
+	-  
 	
 
 
