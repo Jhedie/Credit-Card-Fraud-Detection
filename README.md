@@ -19,9 +19,9 @@
 	- [x] Importing python packages
 	- [x] Importing data
 	- [x] Processing data 
-	- [ ] Exploratory Analysis
-	- [ ] Feature selection and Data split
-	- [ ] Building classification models
+	- [x] Exploratory Analysis
+	- [x] Feature selection and Data split
+	- [ ] Learning and building classification models
 	- [ ] Evaluation 
 5. ### Tools:
 	* Google Colab: https://colab.research.google.com/drive/1NpuGXwu9Kq4juCpEn0v0hdJ4x73vmFp9#scrollTo=uYNcXtbFzDoq 
