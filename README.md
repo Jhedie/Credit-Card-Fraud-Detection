@@ -24,6 +24,12 @@
 	- [x] Exploratory Analysis
 	- [x] Feature selection and Data split
 	- [ ] Learning and building classification models
+		- [x] Decision Tree
+		- [x] K - Nearest Neighbor
+		- [ ] Logistic Regression
+		- [ ] SVM
+		- [ ] Random Forest Tree
+		- [ ] XGBoost
 	- [ ] Evaluation 
 5. ### Tools:
 	* Google Colab
