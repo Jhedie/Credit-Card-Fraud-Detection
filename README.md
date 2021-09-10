@@ -1,4 +1,6 @@
-# Credit-Card-Fraud-Detection With Machine Learning in Python 14/08/2021
+# Credit-Card-Fraud-Detection With Machine Learning in Python with Google Colab 14/08/2021
+
+0. Link to Notebook:  https://colab.research.google.com/drive/1NpuGXwu9Kq4juCpEn0v0hdJ4x73vmFp9?usp=sharing
 
 1. ### Requirements: 
 	Dataset containing transactions between people
@@ -24,7 +26,7 @@
 	- [ ] Learning and building classification models
 	- [ ] Evaluation 
 5. ### Tools:
-	* Google Colab: https://colab.research.google.com/drive/1NpuGXwu9Kq4juCpEn0v0hdJ4x73vmFp9#scrollTo=uYNcXtbFzDoq 
+	* Google Colab
 	* Python
 6. ### Sources:
 	
