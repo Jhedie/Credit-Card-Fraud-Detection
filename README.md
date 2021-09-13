@@ -26,8 +26,8 @@
 	- [ ] Learning and building classification models
 		- [x] Decision Tree
 		- [x] K - Nearest Neighbor
-		- [ ] Logistic Regression
-		- [ ] SVM
+		- [x] Logistic Regression
+		- [x] SVM
 		- [ ] Random Forest Tree
 		- [ ] XGBoost
 	- [ ] Evaluation 
@@ -40,7 +40,7 @@
 
 	- https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623 -machine leaning classifiers 
 
-	- https://www.kaggle.com/mlg-ulb/creditcardfraud - Dataset
+	- https://www.kaggle.com/mlg-ulb/creditcardfraud - The Dataset used
 
 	- https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html - Learning about data standardization/normalisation under feature scaling.
 
@@ -59,7 +59,11 @@
 	
 	- https://youtu.be/yIYKR4sgzI8 - Logistical regression
 
-	- https://youtu.be/jbluHIgBmBo - Logistical regression (more related to project) 
+	- https://youtu.be/jbluHIgBmBo - Logistical regression (more related to project)
+
+	- https://youtu.be/Lpr__X8zuE8 - A friendly introduction into Support Vector Machines
+	
+	- https://youtu.be/Y6RRHw9uN9o - SVMs Fun machine learning
 	
 
 
