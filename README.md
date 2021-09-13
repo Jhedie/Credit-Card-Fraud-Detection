@@ -56,7 +56,10 @@
 		- https://youtu.be/u4IxOk2ijSs - Gini impurity index
 
 	- https://youtu.be/UR2ag4lbBtc - K Nearest Neighbour explained
-	-  
+	
+	- https://youtu.be/yIYKR4sgzI8 - Logistical regression
+
+	- https://youtu.be/jbluHIgBmBo - Logistical regression (more related to project) 
 	
 
 
